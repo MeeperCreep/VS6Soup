@@ -1,6 +1,6 @@
 # VS6Soup
 
-UPDATE: I have no fucking idea how to add a github repo, so just DM me on Discord or something for the files. AAAAAAAAAAAA
+UPDATE: I have no fucking idea how to add a github repo, so just DM me on Discord or something for some of the missing files. AAAAAAAAAAAA
 </br></br>
 
 Hey, welcome to the gitrepo of this small mod!
